@@ -1,0 +1,26 @@
+rect{
+    width: 50px;
+}
+
+svg{
+    background-color: burlywood;
+    border-radius: 5px;
+    padding: 20px;
+ 
+}
+rect{
+    fill: gray;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+#tooltip{
+    margin-top: 10px;
+    color: green;
+}
